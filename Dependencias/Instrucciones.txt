@@ -1,0 +1,5 @@
+- Se debera instalar el "Xampp". Una vez instalado, abrirlo, e iniciar "Apache" y "MySQL"
+- Luego debera instalar "MySQL Front". Abrirlo, tocar "F12", tocar en "Nueva" y poner lo mismo de la foto (https://prnt.sc/13eoiio), luego en Aceptar y Abrir.
+- Luego, click derecho en "LocalHost", dentro de la SQL, e "Importar", y selecciona el archivo "essentialmode.sql" dentro de la carpeta Servidor/cfx.server.data.master.
+- Luego debera ir a la carpeta "Servidor" y editar el archivo "Iniciar-Servidor.bat" y cambiar la ruta del servidor a la suya.
+- Luego de eso, el servidor estara listo para usar.
